@@ -55,3 +55,15 @@ Gere QRCodes personalizados, incluindo texto, informações de Wi-Fi e cartões 
 
 ### [Auto Creavite](https://auto.creavite.co)
 Crie banners, avatares e animações gratuitas de maneira rápida e fácil. Adicione um toque personalizado ao seu conteúdo online.
+
+### [Coolors](https://coolors.co/)
+Gere paletas de cores de forma rápida e fácil e manipule-as para se adequar à sua necessidade.
+
+### [Imgur Image Uploader](https://img.mateusf.com/)
+Faça upload de imagens na plataforma Imgur e receba um link diretamente sem login ou ads
+
+### [Border CSS](https://border-css-generator.mateusf.com/)
+Manipule a estilisação da borda de um elemente e gere o CSS equivalente
+
+### [4Devs](https://www.4devs.com.br/)
+Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras úteis para programadores.
