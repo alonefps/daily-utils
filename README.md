@@ -112,6 +112,22 @@ Crie banners, avatares e animações gratuitas de maneira rápida e fácil. Adic
 
 ### [BlockChain explorer](https://www.blockchain.com/pt/explorer)
 
+### [Coolors](https://coolors.co/)
+
+Gere paletas de cores de forma rápida e fácil e manipule-as para se adequar à sua necessidade.
+
+### [Imgur Image Uploader](https://img.mateusf.com/)
+
+Faça upload de imagens na plataforma Imgur e receba um link diretamente sem login ou ads
+
+### [Border CSS](https://border-css-generator.mateusf.com/)
+
+Manipule a estilização da borda de um elemento e gere o CSS equivalente
+
+### [4Devs](https://www.4devs.com.br/)
+
+Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras úteis para programadores.
+
 ## Como Contribuir
 
 Se você conhece algum site ou ferramenta incrível que poucos conhecem e acredita que pode ser útil para outras pessoas, sinta-se à vontade para contribuir! Basta seguir os passos abaixo:
