@@ -35,6 +35,9 @@ Se você conhece algum site ou ferramenta incrível que poucos conhecem e acredi
 ### [Neon](https://neon.tech)
 Fornece um banco de dados PostgreSQL gratuito, permitindo que você inicie seus projetos com um banco de dados robusto sem custos iniciais.
 
+### [Flixier](https://editor.flixier.com/tools/all-tools)
+Transcreva o conteúdo falado em texto, remova instantaneamente ruídos de fundo indesejados, compacte arquivos de vídeo para reduzir o tamanho do arquivo sem perder qualidade.
+
 ### [Render](https://render.com)
 Oferece uma plataforma completa para hospedagem de banco de dados, static websites, web services, redis, e blueprint. Simplifique o deploy e gerenciamento de suas aplicações.
 
