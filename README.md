@@ -35,6 +35,33 @@ Se você conhece algum site ou ferramenta incrível que poucos conhecem e acredi
 ### [Neon](https://neon.tech)
 Fornece um banco de dados PostgreSQL gratuito, permitindo que você inicie seus projetos com um banco de dados robusto sem custos iniciais.
 
+### [News API](https://newsapi.org)
+Pesquise notícias mundiais com código.
+
+### [Lucid APP](https://lucid.app)
+criar modelos de diagramas, mapas mentais.
+
+### [Fake Store](https://fakestoreapi.com)
+API falsa de armazenamento de loja para seu protótipo de site de comércio eletrônico ou compras.
+
+### [Feed BBC](https://feeds.bbci.co.uk/portuguese/rss.xml)
+Feed BBC em xml.
+
+### [Icons8](https://icons8.com.br)
+Ícones gratuitos.
+
+### [PhosphorIcons](https://phosphoricons.com)
+Ícones gratuitos.
+
+### [Via CEP](https://viacep.com.br)
+Consultar Códigos de Endereçamento Postal.
+
+### [10015](https://10015.io)
+AI Tools, gerador de post para redes sociais.
+
+### [Unsplash](https://unsplash.com/pt-br)
+Galeria de imagens para uso gratuitas.
+
 ### [Flixier](https://editor.flixier.com/tools/all-tools)
 Transcreva o conteúdo falado em texto, remova instantaneamente ruídos de fundo indesejados, compacte arquivos de vídeo para reduzir o tamanho do arquivo sem perder qualidade.
 
