@@ -135,7 +135,7 @@ Se você conhece algum site ou ferramenta incrível que poucos conhecem e acredi
 5. **Push**: Envie suas alterações para o seu repositório no GitHub.
 
    ```bash
-   git push origin master
+   git push
    ```
 
 6. **Pull Request**: Abra um pull request para que suas alterações sejam revisadas e integradas ao repositório principal.
