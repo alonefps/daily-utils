@@ -8,6 +8,10 @@ Bem-vindo ao repositório "Daily Utils"! Aqui você encontrará uma coleção de
 
 Pesquise notícias mundiais com código.
 
+### [Sitemap Generator](https://www.xml-sitemaps.com)
+
+Gerar sitemap para sites.
+
 ### [TheMovie](https://developer.themoviedb.org/docs)
 
 API de filmes, TV, atores e imagens.
