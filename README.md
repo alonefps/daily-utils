@@ -48,6 +48,10 @@ AI Tools, gerador de post para redes sociais.
 
 Galeria de imagens para uso gratuitas.
 
+### [Favicon io](https://favicon.io/favicon-converter/)
+
+Galeria de imagens para uso gratuitas.
+
 ### [HeroPatterns](https://heropatterns.com)
 
 Uma coleção de padrões de fundo SVG repetíveis para você usar em seus projetos web.
