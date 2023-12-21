@@ -8,6 +8,10 @@ Bem-vindo ao repositório "Daily Utils"! Aqui você encontrará uma coleção de
 
 Pesquise notícias mundiais com código.
 
+### [Json Fake API](https://jsonplaceholder.typicode.com)
+
+Json Fake API
+
 ### [Sitemap Generator](https://www.xml-sitemaps.com)
 
 Gerar sitemap para sites.
