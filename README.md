@@ -4,6 +4,10 @@ Bem-vindo ao repositório "Daily Utils"! Aqui você encontrará uma coleção de
 
 ## Lista de Utilidades
 
+### [IP API](https://ip-api.com)
+
+API de Geolocalização por IP
+
 ### [News API](https://newsapi.org)
 
 Pesquise notícias mundiais com código.
