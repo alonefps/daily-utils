@@ -1,5 +1,3 @@
-![Daily Utils](https://imgur.com/4ot9X0I.gif)
-
 Bem-vindo ao repositório "Daily Utils"! Aqui você encontrará uma coleção de sites e ferramentas úteis que podem facilitar a sua vida, tanto em desenvolvimento quanto em diversas outras áreas.
 
 ## Lista de Utilidades
